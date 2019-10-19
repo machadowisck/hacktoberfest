@@ -14,9 +14,11 @@ Agora com ajuda dos mentores, vá nessas lista e procure mais projetos que você
 
 Caso esteja acompanhando este guia posteriormente, sinta-se a vontade para pedir ajuda através do nosso canal do telegram, @pythonmg.
 
-:pushpin: Normalmente os problemas mais fáceis de resolver possuem a tag `good first issue`.
+:pushpin: Normalmente os problemas mais fáceis de resolver possuem a tag `good first issue`.  Uma dica é adicionar `label:"good first issue"` no seu campo de busca. 
 
 ![good first issue](imagens/good-first.png)
+
+Também é possível procurar Issues em todo o GitHub que estejam marcadas como `good first issue`, que o status esteja aberto e estejam marcadas para a [HacktoberFest](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22+label%3Ahacktoberfest&type=Issues).
 
 Uma outra opção é ajudar a aprimorar este guia, temos algumas ["*issues*"](https://github.com/pythonmg/hacktoberfest/issues) que estão em aberto.
 
